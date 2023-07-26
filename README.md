@@ -78,7 +78,7 @@ Example command:
 ```sh
  Install Ruby
 ```
-<p align="right"><a href="#readme-top">:back:</a></p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Setup
 
@@ -88,7 +88,7 @@ Clone this repository to your desired folder:
   cd my-folder
   git clone https://github.com/ab-noori/School-Library.git
 ```
-<p align="right"><a href="#readme-top">:back:</a></p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Install
 
@@ -98,7 +98,7 @@ Install this project with:
   cd my-folder
   git clone https://github.com/ab-noori/School-Library.git
 ```
-<p align="right"><a href="#readme-top">:back:</a></p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Usage
 
@@ -108,7 +108,7 @@ To run the project, execute the following command:
   cd my-folder
   git clone https://github.com/ab-noori/School-Library.git
 ```
-<p align="right"><a href="#readme-top">:back:</a></p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Run tests
 
@@ -117,7 +117,7 @@ To run tests, run the following command:
 ```sh
   npm test
 ```
-<p align="right"><a href="#readme-top">:back:</a></p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Deployment
 
