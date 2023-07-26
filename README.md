@@ -117,7 +117,7 @@ To run tests, run the following command:
 ```sh
   npm test
 ```
-<p align="right"><a href="#readme-top">:back:</a></p>
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 ### Deployment
 
