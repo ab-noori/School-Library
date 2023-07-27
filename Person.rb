@@ -15,6 +15,10 @@ class Person < Nameable
     of_age? || @parent_permission
   end
 
+  def correct_name 
+    @name
+  end
+
   private
 
   def of_age?
@@ -23,9 +27,5 @@ class Person < Nameable
 
   def generate_id
     rand(10000..99999)
-  end
-
-  def correct_name 
-    @name
   end
 end
