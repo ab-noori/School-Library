@@ -1,15 +1,16 @@
 require_relative 'classroom'
 require_relative 'book'
-require_relative 'Nameable'
+require_relative 'nameable'
 
 class Person < Nameable
   attr_reader :id
   attr_accessor :name, :age, :parent_permission, :rentals
 
-  def initialize(name = "Unknown", age = 0, parent_permission = true)
+  def initialize(name: 'Unknown', age: 0, parent_permission: true)
+    super()
     @id = generate_id
-    @name = name
     @age = age
+    @name = name
     @parent_permission = parent_permission
     @rentals = []
   end
@@ -29,6 +30,6 @@ class Person < Nameable
   end
 
   def generate_id
-    rand(10000..99999)
+    rand(10_000..99_999)
   end
 end

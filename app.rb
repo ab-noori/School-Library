@@ -1,8 +1,9 @@
-require "./src/Person.rb"
-require "./src/CapitalizeDecorator"
-require "./src/TrimmerDecorator"
+require './src/nameable'
+require './src/person'
+require './src/capitalize_decorator'
+require './src/trimmer_decorator'
 
-person = Person.new('Maximilianus', 22)
+person = Person.new(name: 'Maximilianus', age: 22)
 puts person.correct_name
 # Output: Maximilianus
 
