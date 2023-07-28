@@ -1,6 +1,6 @@
-require "./classes/Person.rb"
-require "./classes/CapitalizeDecorator"
-require "./classes/TrimmerDecorator"
+require "./src/Person.rb"
+require "./src/CapitalizeDecorator"
+require "./src/TrimmerDecorator"
 
 person = Person.new('Maximilianus', 22)
 puts person.correct_name
