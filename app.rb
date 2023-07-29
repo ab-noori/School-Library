@@ -9,6 +9,8 @@ require './src/base_decorator'
 require './src/capitalize_decorator'
 require './src/trimmer_decorator'
 
+# app.rb
+
 class App
   def initialize
     @books = []
