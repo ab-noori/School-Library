@@ -34,8 +34,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="https://www.w3schools.com/html/default.asp">HTML</a></li>
-    <li><a href="https://www.w3schools.com/css/default.asp">CSS</a></li>
+    <li></li>
   </ul>
 </details>
 
@@ -43,14 +42,13 @@
   <summary>Server</summary>
   <ul>
     <li><a href="https://www.ruby-lang.org/en/">Ruby</a></li>
-    <li><a href="https://guides.rubyonrails.org/">Ruby on Rails</a></li>
   </ul>
 </details>
 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li></li>
   </ul>
 </details>
 
@@ -78,7 +76,6 @@ Example command:
 
 ```sh
  Install Ruby
- gem install rails
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
